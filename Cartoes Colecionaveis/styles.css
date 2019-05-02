@@ -1,0 +1,35 @@
+/* add your CSS here */
+
+
+			.card{
+				border: 1px outset #ccc;
+				box-shadow: 5px 5px 5px  #ccc;
+				padding: 1em;
+				width: 290px;
+        		height: 580px;
+			}
+		   .chloe-image {
+        		border:  10px ;
+        		padding: 8 8;
+        		width: 280px;
+        		height: 270px;
+        		
+
+        			
+    		}
+    		.h3{
+    			padding: 1em;
+
+    		}
+    		.borda-info{
+    			border: 1px outset #ccc;
+        		
+        		cursor: pointer;
+        		padding: 1em;
+        		width: 250px;
+        		height: 200px;
+        			
+    		}
+    		
+
+	
